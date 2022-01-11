@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Wasim Ali",
+      "username": "wasimbabu",
+      "email": "wasim@gmail.comggg",
+      "phone": "8107261514",
+      "id": 1
+    },
+    {
+      "name": "b",
+      "username": "b",
+      "email": "b",
+      "phone": "5",
+      "id": 2
+    }
+  ]
+}

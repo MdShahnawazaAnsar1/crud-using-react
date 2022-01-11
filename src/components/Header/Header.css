@@ -1,0 +1,16 @@
+.header {
+  background-color: black;
+  color: white;
+  height: 65px;
+  align-items: center;
+  display: flex;
+  font-size: 20px;
+}
+.bar{
+    margin-left:20px;
+    cursor: pointer;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    
+}

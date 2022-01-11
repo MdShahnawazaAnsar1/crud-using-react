@@ -1,0 +1,38 @@
+.dashboard {
+  background-color: #e3ffe3;
+}
+.banner {
+  height: 85px;
+  width: 100%;
+  margin-top: -20px;
+  background-color: #ffe3e3;
+  
+}
+h1{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+}
+.content{
+    background-color: #e3ffe3;
+    padding: 20px;
+    margin-top: -20px;
+}
+.content ul li{
+    color: #fc0d25;
+    font-size: 18px;
+}
+.About{
+    padding: 20px;
+    margin-top: -20px;
+    background-color: #fffb7a;
+}
+.aboutContainer{
+    padding: 20px;
+    margin-top: -30px;
+}
+.aboutContainer li a{
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
